@@ -30,3 +30,5 @@ http://178.255.126.171:5003/ping
 ## Технологии
 Python + Flask + Docker + Docker Compose
 EOF
+![1](https://github.com/BlohinaValeria/ping-pong-service/blob/main/pingpong.png)
+
